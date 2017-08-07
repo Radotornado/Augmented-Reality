@@ -1,0 +1,28 @@
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe.config
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.pdb
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.Form1.resources
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.Properties.Resources.resources
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
+C:\_projects\c#\vision\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe.config
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.pdb
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.Properties.Resources.resources
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.csproj.GenerateResource.Cache
+C:\Users\rado\Desktop\AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.AR.resources
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe.config
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.exe
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.pdb
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.exe
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\bin\Debug\AugmentedReality.pdb
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.csprojResolveAssemblyReference.cache
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.AR.resources
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.Properties.Resources.resources
+C:\Users\rado\Desktop\ \AugmentedReality\AugmentedReality\obj\x86\Debug\AugmentedReality.csproj.GenerateResource.Cache
